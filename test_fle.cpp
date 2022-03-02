@@ -11,7 +11,8 @@ int main(){
 
     int age2;
     std::cin >> age2;
-    std::cout << "³ª´Â " << age2 << " »ì ÀÔ´Ï´Ù." << std::endl;
+    // std::cout << "ï¿½ï¿½ï¿½ï¿½ " << age2 << " ï¿½ï¿½ ï¿½Ô´Ï´ï¿½." << std::endl;
+    std::cout << "hello age " << age2 << "hong" << std::endl;
 
     return 0;
 
